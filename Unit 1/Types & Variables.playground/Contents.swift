@@ -118,3 +118,8 @@ var even = 12 % 6
 
 print(even)
 
+// CONSTANTS
+
+let pi = 3.14
+
+
